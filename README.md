@@ -1,4 +1,4 @@
-//[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]()
+//[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](./header.png)
 <h1 align="center">Hi 👋, I'm Rohit P</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
@@ -15,6 +15,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hYmlyOQMDEznF5_Ly42P9xvYik8mS9cg/view?usp=drive_link](https://drive.google.com/file/d/1hYmlyOQMDEznF5_Ly42P9xvYik8mS9cg/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am Dumb**
+<img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=790b7611m8xmsnjvxivnbr0tcrhhie9xst4o4f710btoipli&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="" align="right" width="400">
 
 <p align="left">
 </p>
