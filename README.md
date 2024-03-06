@@ -1,5 +1,4 @@
-//[![MasterHead](./header.png)](./header.png)
-<h1 align="center">Hi 👋, I'm Rohit P</h1>
+[![MasterHead](./header.png)](./header.png)
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitp2005&label=Profile%20views&color=0e75b6&style=flat" alt="rohitp2005" /> </p>
