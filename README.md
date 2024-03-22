@@ -1,13 +1,10 @@
 ![Banner](banner.png)
-![GIF](https://i.imgur.com/fhVTAyV.gif)
+
 <h2 align="center">Hi 👋! My name is Rohit</h2>
 
-###
 
 <p align="left">🚀 I'm a Junior Software developer passionate about Artificial Intelligence. I love gaming,music and anime.<br><br>💼 Currently, I'm working on Machine Learning. My expertise lies in Artificial Intelligence, and I enjoy collaborating on Software Development.<br><br>🌱 I'm always eager to learn and explore new technologies, and I believe in continuous improvement.<br><br>📫 You can reach me via contacts mentioned below, and feel free to check out my work on this profile.<br><br>🔍 Let's connect and build amazing things together!</p>
-
-###
-
+<hr>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RohitP2005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=RohitP2005&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
@@ -15,7 +12,7 @@
 </div>
 
 ###
-
+<hr>
 <h3 align="left">Languages I have expertise in</h3>
 
 ###
@@ -110,8 +107,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
 
-###
-
+<hr>
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/zFYlcnyDzhkAAAAd/student-studying.gif"  />
+</div>
 <h2 align="left">Contact Me here</h2>
 
 ###
@@ -136,6 +135,8 @@
 
 ###
 
-
+<div align="center">
+  <img src="https://i.imgur.com/fhVTAyV.gif" alt="GIF">
+</div>
 
 ###
