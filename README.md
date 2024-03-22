@@ -1,3 +1,4 @@
+![Banner](banner.png)
 <h2 align="center">Hi 👋! My name is Rohit</h2>
 
 ###
