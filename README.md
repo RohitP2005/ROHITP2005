@@ -1,4 +1,5 @@
 ![Banner](banner.png)
+![GIF](https://i.imgur.com/fhVTAyV.gif)
 <h2 align="center">Hi 👋! My name is Rohit</h2>
 
 ###
