@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](./ban.gif)
 
 <h2 align="center">Hi 👋! My name is Rohit</h2>
 
