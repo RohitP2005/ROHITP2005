@@ -81,7 +81,7 @@
 
 ###
 
-<h4 align="left">Dev ops</h4>
+<h4 align="left">Others</h4>
 
 ###
 
