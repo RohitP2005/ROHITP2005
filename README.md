@@ -61,7 +61,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img src="./Introduction_to_Pandas.gif" height="40"   />
 </div>
 
 ###
@@ -81,13 +80,18 @@
 </div>
 
 ###
+
 <h4 align="left">Leetcode</h4>
+
 ###
+
 <div align="left">
     <img src="./Introduction_to_Pandas.gif" height="40" alt="Pandas GIF" />
     <img width="18" />
 </div>
+
 ###
+
 <h4 align="left">Others</h4>
 
 ###
