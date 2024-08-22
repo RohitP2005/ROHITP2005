@@ -6,7 +6,6 @@
 <p align="left">🚀 I'm a Junior Software developer passionate about Artificial Intelligence. I love gaming,music and anime.<br><br>💼 Currently, I'm working on Machine Learning. My expertise lies in Artificial Intelligence, and I enjoy collaborating on Software Development.<br><br>🌱 I'm always eager to learn and explore new technologies, and I believe in continuous improvement.<br><br>📫 You can reach me via contacts mentioned below, and feel free to check out my work on this profile.<br><br>🔍 Let's connect and build amazing things together!</p>
 <hr>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohitP2005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=RohitP2005&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RohitP2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
