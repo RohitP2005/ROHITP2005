@@ -1,6 +1,6 @@
 ![Banner](./ban.gif)
 
-<h2 align="center">Hi 👋! My this is Rohit</h2>
+<h2 align="center">Hi 👋! his is Rohit</h2>
 
 
 <p align="left">🚀 I'm a Junior Software developer passionate about Artificial Intelligence. I love gaming,music and anime.<br><br>💼 Currently, I'm working on Machine Learning. My expertise lies in Artificial Intelligence, and I enjoy collaborating on Software Development.<br><br>🌱 I'm always eager to learn and explore new technologies, and I believe in continuous improvement.<br><br>📫 You can reach me via contacts mentioned below, and feel free to check out my work on this profile.<br><br>🔍 Let's connect and build amazing things together!</p>
